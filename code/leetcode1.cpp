@@ -1,10 +1,13 @@
 #include "stdio.h"
 #include<vector>
+#include"iostream"
 using namespace std;
 
 void main(){
     vector<int> v;
-    
+    //用cin向vector 对象输入
+    cin >> v;
+
 
 }
 
