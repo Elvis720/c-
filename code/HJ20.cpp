@@ -12,7 +12,7 @@ int main()
         cout << "NG" << endl;
         continue;
     }
-    int type[4];
+    int type[4] = {0,0,0};
     //判断类型数
     for(int i= 0; i < str.size(); i++){
         if(isdigit(str[i])){
