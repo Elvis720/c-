@@ -16,6 +16,7 @@ int main(){
     string str3;
     getline(cin,str3);
     cout << str3;
+    cout << strlen(&str3);
     return 0;
     //测试 输入类型与目的类型不匹配情况下
     //当输入不是数字时，cin输出0
