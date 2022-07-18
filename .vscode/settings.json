@@ -9,6 +9,10 @@
         "cstring": "cpp",
         "ostream": "cpp",
         "xlocale": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp"
     }
 }
